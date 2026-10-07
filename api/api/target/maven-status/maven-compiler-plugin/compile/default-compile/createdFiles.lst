@@ -1,0 +1,15 @@
+com\portal\api\message\KafkaProducerConfiguration.class
+com\portal\api\controller\CarPostController.class
+com\portal\api\dto\OwnerPostDTO.class
+com\portal\api\client\RestTemplateConfig.class
+com\portal\api\service\OwnerPostService.class
+com\portal\api\controller\OwnerPostController.class
+com\portal\api\dto\OwnerPostDTO$OwnerPostDTOBuilder.class
+com\portal\api\service\OwnerPostServiceImpl.class
+com\portal\api\dto\CarPostDTO.class
+com\portal\api\client\CarPostStoreClient.class
+com\portal\api\service\CarPostStoreServiceImpl.class
+com\portal\api\dto\CarPostDTO$CarPostDTOBuilder.class
+com\portal\api\message\KafkaProducerMessage.class
+com\portal\api\service\CarPostStoreService.class
+com\portal\api\ApiApplication.class
